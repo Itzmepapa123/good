@@ -8,3 +8,4 @@ pymongo
 dnspython
 # --- For-Web-Response ------- #
 aiohttp
+Werkzeug==2.2.2  
